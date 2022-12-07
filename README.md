@@ -12,3 +12,5 @@
  2. 对 clip 的认识更加的深刻（clip-path，background-clip）
  3. 了解和复习到了更多的伪类（:not(:last-child)）,以及多类名的选择（[class^="clo-"]）
  4. 其中最主要的是对于Sass的学习（如：mixins、variables、嵌套、及导入功能）
+
+ 5. 贝塞尔曲线  https://cubic-bezier.com/
